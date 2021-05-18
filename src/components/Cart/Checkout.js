@@ -54,7 +54,6 @@ const Checkout = (props) => {
       postalCode: enteredPostalCode
     })
 
-    alert('Order Placed')
 
 
   };
